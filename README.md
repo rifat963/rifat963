@@ -4,8 +4,8 @@
 
 ---
 
-### 🏛️ Professional Profile
-I am a dedicated academic and researcher with extensive experience in **Computer Vision**, **Data Quality**, and **Internet of Things (IoT)**. Currently, I serve as an Associate Professor at East West University, where I lead research initiatives focused on creating dependable, data-driven systems. My background spans several prestigious European institutions, where I contributed to large-scale Horizon 2020 projects.
+### 🏛️ Short Biography
+Currently, I am serving as an Associate Professor in the Department of Computer Science and Engineering at East West University (EWU) Bangladesh. Before joining EWU, I worked as a researcher at the LINKS Foundation in the Pervasive Technologies Research Area, within the IoT Service Management Unit. Previously, I received my Ph.D. in Computer and Control Engineering from the Polytechnic University of Turin, and my Master’s in Computer Engineering from the University of Pavia. My research focused on Social Media Data Integration and Event Management for Smart Cities. Before that, I obtained my B.Eng. in Computer Science and Engineering from Khulna University, Bangladesh. Regarding my Ph.D. research project, I developed a data quality assessment methodology for large-scale knowledge bases. The primary emphasis was on automated knowledge base quality assessment using evolution analysis.
 
 ### 🎓 Academic Background
 * **Ph.D. in Computer and Control Engineering** *Polytechnic University of Turin, Italy* *Thesis: "Automated Knowledge Base Quality Assessment and Validation Based on Evolution Analysis"*
@@ -14,9 +14,10 @@ I am a dedicated academic and researcher with extensive experience in **Computer
 
 ### 🔬 Research Specialization
 My scholarly work focuses on the intersection of automation and data integrity:
-* **Data Science & Engineering:** Automated quality assessment for large-scale knowledge bases and semantic web technologies.
-* **Deep Learning & Computer Vision:** Applications in precision agriculture, medical imaging.
-* **IoT & Cyber-Physical Systems:** Privacy-aware frameworks and dependable sensing for smart cities and industrial applications.
+* **Sustainable and Applied AI**
+* **Computer Vision**
+* **Knowledge Graphs and Structured RAG**
+* **IoT/Blockchain-Enabled Trustworthy Systems.**
 
 ### 🛠️ Technical Competencies
 * **Research Areas:** vLLM, Time Series Analysis, Data Profiling, BCI-enabled AR/VR systems.
